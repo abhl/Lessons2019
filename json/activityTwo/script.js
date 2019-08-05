@@ -110,7 +110,6 @@ These are the properties contained in each of these variables:
         - Each p tag should have a class corresponding to whatever is inside of it
         - All of the p tags must be in a div
         - The div containing all of the p tags must have an id corresponding to the pokemon's name
-        - You must give the div it's id using the `name` property of the pokemon, you cannot give it the id manually
     Hints: 
         - Remember document.createElement(tagName)
         - Remember newElement.innerHTML
