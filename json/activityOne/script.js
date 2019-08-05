@@ -29,40 +29,16 @@ These are the properties contained in each of these variables:
     Hint: the `base` object has properties with dots in them, try using bracket notation (think ref.style["background-color"])
 */
 
-/* Task 1) List each property specified of one pokemon of your choice each in a paragraph tag of your choice
-    Rules:
-        - No HTML editing
-        - Each p tag should have a class corresponding to whatever is inside of it
-        - All of the p tags must be in a div
-        - The div containing all of the p tags must have an id corresponding to the pokemon's name
-        - You must give the div it's id using the `name` property of the pokemon, you cannot give it the id manually
-    Hints: 
-        - Remember document.createElement(tagName)
-        - Remember newElement.innerHTML
-        - Remember ref.appendChild(element)
-*/
+/* Task 1) Log one of the pokemon on the console and explore the information inside */
 
 
-
-/* Task 2) Create a function that does task 1 but for any pokemon variable (If you finish this task early, go onto the challenge task)
-    Rules:
-        - No HTML editing
-        - Each p tag should have a class corresponding to whatever is inside of it
-        - All of the p tags must be in a div
-        - The div containing all of the p tags must have an id corresponding to the pokemon's name
-        - You must give the div it's id using the `name` property of the pokemon, you cannot give it the id manually
-    Hints: 
-        - Feel free to copy and edit your code from task 1, in fact I recommend it
-        - Define your function as such: function newPokemonElement(pokemon){}
-        - Pokemon would be the variable containing the pokemon object
-*/
+/* Task 2) Log the `id` property of the pokemon, what does it output? */
 
 
+/* Task 3) Log the `base` property of the pokemon, what does it output?  */
 
-/* Challenge) Add styling to the previous task
-    Rules: 
-        - CSS editing is fair game (Adding style in the function also works)
-        - No HTML editing aside from linking a css file should you choose to go that route
-    Hints:
-        - Have fun with it!
-*/
+
+/* Task 4) Log the `HP` name of the pokemon */
+
+
+/* Task 5) */

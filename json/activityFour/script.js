@@ -1,7 +1,7 @@
 /* For this activity, feel free to make use of your code from any of the previous activities. It's HIGHLY encouraged
 
 Your mission, should you choose to accept it is to follow the tasks listed below. (You have no choice in this. It's been accepted on your behalf.) 
-
+    - Note: The json file for all of the pokemon is stored in a variable called pokedex
 */
 
 /* If you decide to make use of and/or reference your previous code you can place it in this comment so it doesn't run.
@@ -21,8 +21,8 @@ Your mission, should you choose to accept it is to follow the tasks listed below
 
 /* Task 2) Add Styling to the previous task (There is a challenge task as well, so consider if you want to spend the rest of your time on this task. I recommend you try the challenge)
     Rules: 
-        - No HTML editing
         - CSS editing is fair game (Adding style in the function also works)
+        - No HTML editing aside from linking a css file should you choose to go that route
     Hints:
         - If you managed to do styling in one of the previous activity, it'll help here
 */
