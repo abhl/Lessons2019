@@ -100,17 +100,18 @@ These are the properties contained in each of these variables:
     Hint: the `base` object has properties with dots in them, try using bracket notation (think ref.style["background-color"])
 */
 
-/* Task 1) console.log() one of the pokemon on the console and explore the information inside */
+// Task 1) console.log() one of the pokemon on the console and explore the information inside 
 
+// Task 2) console.log() the `id` property of the pokemon, what does it output? 
 
-/* Task 2) console.log() the `id` property of the pokemon, what does it output? */
+// Task 3) console.log() the `base` property of the pokemon, what does it output?  
 
+// Task 4) console.log() the `HP` of the pokemon 
 
-/* Task 3) console.log() the `base` property of the pokemon, what does it output?  */
+// Task 5) Edit the `HP` of the pokemon 
 
+// Task 6) Try to console.log() `Sp. Attack` 
 
-/* Task 4) console.log() the `HP` of the pokemon */
+// Task 7) Try to put the first type of the pokemon onto the console 
 
-/* Task 5) Edit the `HP` of the pokemon */
-
-/* Task 6) Try to console.log() `Sp. Attack` */
+// Task 8) Try to put the japanese name onto the console 

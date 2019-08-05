@@ -76,6 +76,8 @@ let pikachu = {
     }
 };
 
+
+
 /*
 These variables contain objects that have the information about their respective pokemon
 
@@ -99,6 +101,8 @@ These are the properties contained in each of these variables:
         4f) `Speed`
     Hint: the `base` object has properties with dots in them, try using bracket notation (think ref.style["background-color"])
 */
+
+
 
 /* Task 1) List each property specified of one pokemon of your choice each in a paragraph tag of your choice
     Rules:

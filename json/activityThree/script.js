@@ -32,22 +32,23 @@ These are the properties contained in each of these variables:
     Hint: the `base` object has properties with dots in them, try using bracket notation (think ref.style["background-color"])
 */
 
-/* Task 1) console.log(pokedex) */
+// Task 1) console.log(pokedex) 
 
-/* Task 2) console.log(pokedex[0]) */
+// Task 2) console.log(pokedex[0]) 
 
-/* Task 3) console.log() the `id` property of the pokemon, what does it output? */
+// Task 3) console.log() the `id` property of the pokemon, what does it output? 
 
+// Task 4) console.log() the `base` property of the pokemon, what does it output?  
 
-/* Task 4) console.log() the `base` property of the pokemon, what does it output?  */
+// Task 5) console.log() the `HP` of the pokemon 
 
+// Task 6) Edit the `HP` of the pokemon 
 
-/* Task 5) console.log() the `HP` of the pokemon */
+// Task 7) Try to console.log() `Sp. Attack` 
 
-/* Task 6) Edit the `HP` of the pokemon */
+// Task 8) Try to put the first type of the pokemon onto the console 
 
-/* Task 7) Try to console.log() `Sp. Attack` */
-
+// Task 9) Try to put the japanese name onto the console 
 
 /* Challenge Task 1) Create a form that asks for the pokedex number and uses that to place the information of the pokemon that corresponds to that number on the page
     Rules: 
