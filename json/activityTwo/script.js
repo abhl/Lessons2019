@@ -1,9 +1,80 @@
-// Sneak peak of accessing JSON *wink wink nudge nudge* 
-
-let bulbasaur = pokedex[0];
-let charmander = pokedex[3];
-let squirtle = pokedex[6];
-let pikachu = pokedex[24];
+let bulbasaur =   {
+    "id": 1,
+    "name": {
+      "english": "Bulbasaur",
+      "japanese": "フシギダネ",
+      "chinese": "妙蛙种子"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Sp. Attack": 65,
+      "Sp. Defense": 65,
+      "Speed": 45
+    }
+};
+let charmander = {
+    "id": 4,
+    "name": {
+      "english": "Charmander",
+      "japanese": "ヒトカゲ",
+      "chinese": "小火龙"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 39,
+      "Attack": 52,
+      "Defense": 43,
+      "Sp. Attack": 60,
+      "Sp. Defense": 50,
+      "Speed": 65
+    }
+};
+let squirtle = {
+    "id": 7,
+    "name": {
+      "english": "Squirtle",
+      "japanese": "ゼニガメ",
+      "chinese": "杰尼龟"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 44,
+      "Attack": 48,
+      "Defense": 65,
+      "Sp. Attack": 50,
+      "Sp. Defense": 64,
+      "Speed": 43
+    }
+};
+let pikachu = {
+    "id": 25,
+    "name": {
+      "english": "Pikachu",
+      "japanese": "ピカチュウ",
+      "chinese": "皮卡丘"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 35,
+      "Attack": 55,
+      "Defense": 40,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
+      "Speed": 90
+    }
+};
 
 /*
 These variables contain objects that have the information about their respective pokemon
